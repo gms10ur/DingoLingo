@@ -17,12 +17,12 @@ class Settings():
 
         self.settings_template = {
             "id": 0,
-            "default_nickname": "",
+            "default_nickname": "Deli Vahit",
             "command_channel": None,
             "start_voice_channel": None,
             "user_must_be_in_vc": True,
             "button_emote": "",
-            "default_volume": 100,
+            "default_volume": 75,
             "vc_timeout": config.VC_TIMOUT_DEFAULT
         }
 
